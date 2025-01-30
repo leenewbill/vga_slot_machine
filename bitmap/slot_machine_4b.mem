@@ -1,0 +1,16 @@
+000  // 0 - black
+0F0  // 1 - green
+F70  // 2 - orange
+528  // 3 - purple
+FF0  // 4 - yellow
+00F  // 5 - blue
+D02  // 6 - red
+333  // 7 - dark grey
+FFF  // 8 - white
+F0F  // 9 - transparent
+533  // A - brown
+070  // B - dark green
+000  // C - unused
+000  // D - unused
+000  // E - unused
+000  // F - unused
