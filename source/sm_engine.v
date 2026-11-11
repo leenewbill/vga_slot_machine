@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: sm_engine
+// Description: Controls slot machine play, balance updates, reel animation, and payouts.
+// Target: Digilent Nexys A7-100T
+
 
 module sm_engine (
     input clk,

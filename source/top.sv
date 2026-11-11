@@ -1,25 +1,10 @@
 `timescale 1ns / 1ps
 
-///////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 
-// Design Name: 
-// Module Name: 
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-///////////////////////////////////////////////////////////////////////////////
- 
+// Project: SM2 - VGA Slot Machine
+// Module: top
+// Description: Top-level design connecting game logic, VGA output, displays, and user inputs.
+// Target: Digilent Nexys A7-100T
+
 module top (
     input wire logic CLK100MHZ,
     input wire logic RST,

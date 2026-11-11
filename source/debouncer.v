@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: debouncer
+// Description: Synchronizes and debounces a mechanical input, generating a pulse per activation.
+// Target: Digilent Nexys A7-100T
+
 module debouncer
 (
     input clk,

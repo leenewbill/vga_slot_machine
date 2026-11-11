@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: payout_table
+// Description: Determines the payout for a completed three-reel symbol combination.
+// Target: Digilent Nexys A7-100T
+
 module payout_table (
     input [8:0] symbols,
     output [15:0] payout

@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: physical_reel
+// Description: Maps physical reel positions to slot machine symbols.
+// Target: Digilent Nexys A7-100T
+
 module physical_reel
 (
     input wire logic [4:0] p_reel,

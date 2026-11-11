@@ -1,3 +1,6 @@
+// Project: SM2 - VGA Slot Machine
+// Description: Shared symbol identifiers used by the slot machine modules.
+
 //localparam MAX_CLKS = 1000000;
 
 localparam BLANK     = 3'd0;

@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: vga
+// Description: Generates VGA output and transfers reel graphics data into the pixel clock domain.
+// Target: Digilent Nexys A7-100T
+
 module vga
 (
     input wire logic clk_100,

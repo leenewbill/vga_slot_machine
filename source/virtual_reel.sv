@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: virtual_reel
+// Description: Maps virtual reel positions to physical reel positions.
+// Target: Digilent Nexys A7-100T
+
 module virtual_reel
 (
     input wire logic [5:0] v_reel,

@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: reels_engine
+// Description: Controls reel positions, animation, and sequential reel stopping.
+// Target: Digilent Nexys A7-100T
+
 module reels_engine (
     input clk,
     input rst,

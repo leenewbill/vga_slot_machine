@@ -1,3 +1,8 @@
+// Project: SM2 - VGA Slot Machine
+// Module: reels_sprites
+// Description: Renders the three animated reel symbols using hardware sprites.
+// Target: Digilent Nexys A7-100T
+
 module reels_sprites #(
     H_RES = 640,    // horizontal resolution (pixels)
     CORDW = 16,     // signed coordinate width (bits)
